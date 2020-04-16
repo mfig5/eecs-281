@@ -10,6 +10,8 @@
  * This program will be print out a rectangle or different types of triangles, either right, right justifed, or isosceles.
  */
 
+// hey i'm here
+
 #include "loops.h"
 #include <iostream>
 
